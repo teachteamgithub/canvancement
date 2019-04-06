@@ -55,3 +55,7 @@ Canvas also has to consider the bigger picture and how certain additions would f
 Some people want the functionality of these enhancements to be built into Canvas. The enhancements here aren't meant to be a statement one way or the other about that. However, feature requests can take a while to get processed and it seems that many are getting the "Not in the next six months" line from Canvas. These enhancements are designed as interim solutions until their functionality gets built into Canvas, with the full realization that day may never come. They are intended to show people what can be done and maybe spark them to create and share something of their own.
 
 I am not a Canvas employee and this site is not affiliated with Canvas in any way other than the code I'm writing is to enhance their product. Don't gripe at me because Canvas won't do something, put it into the Community. If you experience a problem on a page that you've voluntarily chosen to alter (i.e., you've added a Canvancement to it), then try disabling the enhancement before you contact Canvas Support with a problem.
+
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
